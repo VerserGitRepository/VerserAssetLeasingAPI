@@ -1,0 +1,17 @@
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\bin\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.deps.json
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\bin\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.dll
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\bin\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.pdb
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.csproj.CoreCompileInputs.cache
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.AssemblyInfoInputs.cache
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.AssemblyInfo.cs
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.dll
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.pdb
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\bin\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.deps.json
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\bin\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.dll
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\bin\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.pdb
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.csproj.CoreCompileInputs.cache
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.AssemblyInfoInputs.cache
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.AssemblyInfo.cs
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.dll
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.pdb
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Debug\netstandard2.0\VerserAssetLeasingServices.DBEntities.csprojAssemblyReference.cache

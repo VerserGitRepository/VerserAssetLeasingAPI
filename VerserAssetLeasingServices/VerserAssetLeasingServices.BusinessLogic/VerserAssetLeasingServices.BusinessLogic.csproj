@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VerserAssetLeasingServices.Common\VerserAssetLeasingServices.Common.csproj" />
+    <ProjectReference Include="..\VerserAssetLeasingServices.Models\VerserAssetLeasingServices.DBEntities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\bin\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.deps.json
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\bin\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.dll
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\bin\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.pdb
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.csproj.CoreCompileInputs.cache
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.AssemblyInfoInputs.cache
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.AssemblyInfo.cs
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.dll
+C:\VSSourceCode\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices.DBEntities\obj\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.pdb

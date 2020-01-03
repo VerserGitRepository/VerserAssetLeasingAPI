@@ -1,0 +1,14 @@
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices\bin\Debug\netcoreapp2.1\VerserAssetLeasingServices.deps.json
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices\bin\Debug\netcoreapp2.1\VerserAssetLeasingServices.runtimeconfig.json
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices\bin\Debug\netcoreapp2.1\VerserAssetLeasingServices.runtimeconfig.dev.json
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices\bin\Debug\netcoreapp2.1\VerserAssetLeasingServices.dll
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices\obj\Debug\netcoreapp2.1\VerserAssetLeasingServices.csprojAssemblyReference.cache
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices\obj\Debug\netcoreapp2.1\VerserAssetLeasingServices.csproj.CoreCompileInputs.cache
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices\obj\Debug\netcoreapp2.1\VerserAssetLeasingServices.RazorAssemblyInfo.cache
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices\obj\Debug\netcoreapp2.1\VerserAssetLeasingServices.RazorAssemblyInfo.cs
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices\obj\Debug\netcoreapp2.1\VerserAssetLeasingServices.AssemblyInfoInputs.cache
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices\obj\Debug\netcoreapp2.1\VerserAssetLeasingServices.AssemblyInfo.cs
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices\obj\Debug\netcoreapp2.1\VerserAssetLeasingServices.RazorTargetAssemblyInfo.cache
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices\bin\Debug\netcoreapp2.1\VerserAssetLeasingServices.pdb
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices\obj\Debug\netcoreapp2.1\VerserAssetLeasingServices.dll
+C:\Users\bpatil\Source\Repos\VerserAssetLeasingServices\VerserAssetLeasingServices\obj\Debug\netcoreapp2.1\VerserAssetLeasingServices.pdb

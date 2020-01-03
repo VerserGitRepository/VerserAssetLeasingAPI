@@ -1,0 +1,10 @@
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Common\bin\Debug\netstandard2.0\NLog.config
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Common\bin\Debug\netstandard2.0\VerserAssetLeasingServices.Common.deps.json
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Common\bin\Debug\netstandard2.0\VerserAssetLeasingServices.Common.dll
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Common\bin\Debug\netstandard2.0\VerserAssetLeasingServices.Common.pdb
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Common\obj\Debug\netstandard2.0\VerserAssetLeasingServices.Common.csproj.CoreCompileInputs.cache
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Common\obj\Debug\netstandard2.0\VerserAssetLeasingServices.Common.AssemblyInfoInputs.cache
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Common\obj\Debug\netstandard2.0\VerserAssetLeasingServices.Common.AssemblyInfo.cs
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Common\obj\Debug\netstandard2.0\VerserAssetLeasingServices.Common.dll
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Common\obj\Debug\netstandard2.0\VerserAssetLeasingServices.Common.pdb
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Common\obj\Debug\netstandard2.0\VerserAssetLeasingServices.Common.csprojAssemblyReference.cache

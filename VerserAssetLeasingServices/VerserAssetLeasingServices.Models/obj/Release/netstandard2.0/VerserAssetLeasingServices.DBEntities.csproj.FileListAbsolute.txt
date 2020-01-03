@@ -1,0 +1,13 @@
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Models\bin\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.deps.json
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Models\bin\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.dll
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Models\bin\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.pdb
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Models\obj\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.csproj.CoreCompileInputs.cache
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Models\obj\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.AssemblyInfoInputs.cache
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Models\obj\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.AssemblyInfo.cs
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Models\obj\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.dll
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Models\obj\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.pdb
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Models\obj\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.csprojAssemblyReference.cache
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Models\bin\Release\netstandard2.0\NLog.config
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Models\bin\Release\netstandard2.0\VerserAssetLeasingServices.Common.dll
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Models\bin\Release\netstandard2.0\VerserAssetLeasingServices.Common.pdb
+C:\Users\bpatil\Source\Repos\VerserAssetLeaseAPI\VerserAssetLeasingServices\VerserAssetLeasingServices.Models\obj\Release\netstandard2.0\VerserAssetLeasingServices.DBEntities.csproj.CopyComplete

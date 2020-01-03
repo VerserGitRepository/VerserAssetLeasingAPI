@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/VerserAssetLeasingServices" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\VSSourceCode\\Repos\\VerserAssetLeasingServices\\VerserAssetLeasingServices\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
